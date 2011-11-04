@@ -12,6 +12,7 @@
     <modules>
         <module>basic-standalone</module>
         <module>standalone-throttle-EIP</module>
+        <module>jboss-throttle-example</module>
     </modules>
 
     <properties>
